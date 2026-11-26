@@ -30,8 +30,26 @@
 //   anxious, and the premise (a sock in the freezer) is clear in one read.
 //
 // FINAL ENTRY (v2):
+// "Update: I escaped the laundry and now live in the freezer. Cold, alone,
+//  and the peas keep asking about my partner."
+// (v2: 114 characters)
+//
+// REVISION to v3 — why:
+// - v2's punchline says "about my partner" outright, which is the plain
+//   version of the obvious missing-partner material the brief warns about.
+//   v3 twists it: the peas now ask "where my other half went" — "other
+//   half" is the sock's own idiom for its pair (romantic partner / the
+//   other sock of the pair), so the interrogation lands as a sock joke
+//   instead of a straight complaint, and the punchline still sits in the
+//   last few words.
+// - v3 tightens the opening by cutting the filler "now" ("escaped the
+//   laundry and live in the freezer"), keeping the premise — a sock that
+//   escaped into the freezer — clear in one read, voice still small, cold
+//   and anxious.
+//
+// FINAL ENTRY (v3):
 const entry =
-  "Update: I escaped the laundry and now live in the freezer. Cold, alone, and the peas keep asking about my partner.";
+  "Update: I escaped the laundry and live in the freezer. Cold, alone, and the peas keep asking where my other half went.";
 
 if (/[\r\n]/.test(entry)) {
   throw new Error("Entry must be a single line (no CR or LF allowed).");

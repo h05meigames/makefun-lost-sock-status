@@ -10,9 +10,9 @@ Bounty: [Funniest Lost Sock Status Update](https://make.fun/bounty/u-eager-stork
 
 ## Entry
 
-> Update: I escaped the laundry and now live in the freezer. Cold, alone, and the peas keep asking about my partner.
+> Update: I escaped the laundry and live in the freezer. Cold, alone, and the peas keep asking where my other half went.
 
-**114 characters** (limit: 120)
+**118 characters** (limit: 120)
 
 ## How it runs
 
